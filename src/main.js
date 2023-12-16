@@ -1,5 +1,5 @@
-import { App } from './js/App.js';
+import App from "./js/App";
 
-const app = new App(document.querySelector('#app'));
+const app = new App(document.querySelector("#app"));
 
 app.render();

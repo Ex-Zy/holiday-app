@@ -1,4 +1,4 @@
-export class App {
+export default class App {
   #appContainer;
 
   constructor(appContainer) {
