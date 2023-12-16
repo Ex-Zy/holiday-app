@@ -17,7 +17,10 @@
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-prettier": "^5.0.1",
     "prettier": "3.1.1",
-    "vanillajs-datepicker": "^1.3.4",
+    "sass": "^1.69.5",
     "vite": "^5.0.8"
+  },
+  "dependencies": {
+    "vanillajs-datepicker": "^1.3.4"
   }
 }
